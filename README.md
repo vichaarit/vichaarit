@@ -19,7 +19,7 @@ src="https://miro.medium.com/max/800/1*zzTEyTwyy7jXibtqVWg84Q.gif" width="350" h
 <img src='https://github-readme-stats.vercel.app/api?username=vichaarit&show_icons=true&theme=algolia&count_private=true&line_height=30' width = "500" align ="left" />
 <p align="left"> <a href="https://github.com/vichaarit"><img src="https://github-profile-trophy.vercel.app/?username=vichaarit&theme=dracula" alt="vichaarit" /></a</p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vichaarit&theme=algolia)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=vichaarit)](https://git.io/streak-stats)
 
 ![Pop repo ](https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vichaarit&repo=Hifi_Notes&theme=algolia)
 
