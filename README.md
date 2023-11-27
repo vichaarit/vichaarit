@@ -21,10 +21,11 @@ src="https://miro.medium.com/max/800/1*zzTEyTwyy7jXibtqVWg84Q.gif" width="350" h
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=vichaarit)](https://git.io/streak-stats)
 
-![Pop repo ](https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vichaarit&repo=Hifi_Notes&theme=algolia)
+
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvichaarit&count_bg=%2379C83D&title_bg=%23242748&icon=dev-dot-to.svg&icon_color=%2311E70C&title=COUNT+ViSITORS&edge_flat=false)](https://hits.seeyoufarm.com)
 ![Visitor Count](https://profile-counter.glitch.me/vichaarit/count.svg)
 
 
-![snake gif](https://github.com/vichaarit/vichaarit/blob/output/github-contribution-grid-snake.gif)
+[![Tanmay's GitHub stats](https://github-readme-stats.vercel.app/api?username=vichaarit)](https://github.com/anuraghazra/github-readme-stats)
+
